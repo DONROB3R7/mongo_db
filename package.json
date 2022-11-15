@@ -1,0 +1,16 @@
+{
+  "name": "mongo_db",
+  "version": "1.0.0",
+  "description": "Mongo Db",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Costache Robert",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hbs": "^4.1.1"
+    
+  }
+}
